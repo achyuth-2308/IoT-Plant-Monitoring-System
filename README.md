@@ -1,2 +1,10 @@
 # IoT-Plant-Monitoring-System
-Real-time plant monitoring system alerts users of environmental conditions, optimizing growth &amp; reducing risks. Uses NodeMCU, DHT11, soil moisture sensors. Data sent to cloud for analysis. Skills: Sustainable Agriculture, Statistical Data Analysis.
+The plant monitoring system is designed to provide real-time monitoring of the environmental conditions, and it can be used to alert users when the conditions fall outside of the desired range for plant growth. This can help gardeners and farmers to take corrective action before it is too late, reducing the risk of plant stress or death. The system can also be used to track the progress of the plant growth, providing valuable insights into the plant's needs for better care and management. 
+
+It is an effective way to optimize plant growth by providing accurate and reliable monitoring of the key environmental parameters, thereby making it a valuable tool for anyone who wants to ensure that their plants are growing in the best possible conditions. 
+
+This system uses a NodeMCU microcontroller, DHT11 temperature and humidity sensor, and soil moisture sensor to detect these parameters. The collected data is then transmitted to a cloud-based database for further analysis.The plant monitoring system is designed to provide real-time monitoring of the environmental conditions, and it can be used to alert users when the conditions fall outside of the desired range for plant growth. This can help gardeners and farmers to take corrective action before it is too late, reducing the risk of plant stress or death. 
+
+The system can also be used to track the progress of the plant growth, providing valuable insights into the plant's needs for better care and management. It is an effective way to optimize plant growth by providing accurate and reliable monitoring of the key environmental parameters, thereby making it a valuable tool for anyone who wants to ensure that their plants are growing in the best possible conditions. This system uses a NodeMCU microcontroller, DHT11 temperature and humidity sensor, and soil moisture sensor to detect these parameters. The collected data is then transmitted to a cloud-based database for further analysis.
+
+Skills: Sustainable Agriculture · Plant Maintenance · Agricultural Research · Statistical Data Analysis · Environmental Monitoring
