@@ -1,4 +1,4 @@
-# SproutSpotter: IoT-Based Plant Monitoring System 🌱📡
+# SproutSpotter: IoT-Based Plant Monitoring System🌱📡
 
 ## I. Overview
 - **SproutSpotter** is an advanced IoT system that continuously tracks environmental parameters like soil moisture, temperature, and humidity to ensure optimal conditions for plant growth.
