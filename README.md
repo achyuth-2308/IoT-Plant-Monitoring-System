@@ -61,3 +61,6 @@
 1. Athawale, S. V., et al. "An IoT-Based Smart Plant Monitoring System."
 2. Sudha K, Rizwana H. "IoT-Based Automated Plant Monitoring System."
 3. Shreya N, Bhavya T. "IoT-Based Plant Monitoring System for Precision Agriculture."
+
+---
+This repository contains the code and documentation for the SproutSpotter project. Contributions and feedback are welcome as we work towards smarter and more efficient plant care through IoT technology!
